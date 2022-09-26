@@ -1,4 +1,4 @@
-<h1 align="center">PROJECT BlOG</h1>
+<h1 align="center">PROJECT BLOG</h1>
 
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ```bash
   # Clone the repository
-  ❯ git clone https://github.com/rogeriosouz/clothing-store-next.git
+  ❯ git clone https://github.com/rogeriosouz/blog
 
   # Enter directory
-  ❯ cd clothing-store-next
+  ❯ cd blog
 ```
 
 **Using yarn**
